@@ -1,8 +1,8 @@
 {
     "items": {
       "250_exact": "endodontics/endodontic-equipment/dpex-v-apex-locator",
-      "250_01": "https://dev-site.com/product-250-01",
-      "500_exact": "https://dev-site.com/product-500",
-      "500_01": "https://dev-site.com/product-500-01"
+      "250_01": "insert_250_01_priced_product_url_suffix_here",
+      "500_exact": "insert_250_01_priced_product_url_suffix__here",
+      "500_01": "insert_250_01_priced_product_url_suffix__here"
     }
   }

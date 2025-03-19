@@ -1,3 +1,4 @@
+// Disabled until product_data.json has valid URLs for each product
 // export const discountCases = [
 //     { gbp: 250.00, expectedDiscount: "2%", productKey: "250_exact" },
 //     { gbp: 250.01, expectedDiscount: "3%", productKey: "250_01" },
